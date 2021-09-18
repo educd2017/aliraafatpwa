@@ -3,20 +3,20 @@
     "short_name": "علي رأفت",
     "icons": [
         {
-            "src": "https://b.top4top.io/p_2058b20wz1.png",
+            "src": "https://lh3.googleusercontent.com/-SE8sSGKrZr0/YUWBnmi_W6I/AAAAAAAAH8U/KiI17_lYvz8djfcZjpnYZvKdS4hLklwrgCLcBGAsYHQ/s16000/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "https://c.top4top.io/p_2058uuegk2.png",
+            "src": "https://lh3.googleusercontent.com/-mHOOW4Mm_Jk/YUWBn7RH0CI/AAAAAAAAH8o/-WK8o74z-IA4_6fFXmA9rlb2JqJaIFg4QCLcBGAsYHQ/s16000/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any maskable"
         }
     ],
     "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "background_color": "#6002d2",
     "display": "standalone",
     "prefer_related_applications": false,
   "start_url": "https://www.aliraafat.com"
