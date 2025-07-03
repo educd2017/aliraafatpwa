@@ -1,0 +1,20 @@
+{
+  "name": "مدونة علي رأفت",
+  "short_name": "مدونة علي رأفت",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d6efd",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3MK9m6kqgRmklbKcf_haOLurFiYFJmZ0rtsIwYzER4d5m9DVwHvzFXZeqXSGQlgTuopOHc9baIM54Q0nKJaTGttXyW3lMtNTWvK3WWrtVfq5C2GLejpxnhT2DS4yG1-qbATy2t80F5P2gjoqIVlPZXNXw0_dh-SOZbvaRSG-Jhe_kcwu4XFG9M8ZhrasO/s1600/alifavicon192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyHrRMzKAvtzMeAKHBiyPNfnAFFD9u1kDi9dNmqsnAoGFnQupsw_MHiHMN9K0jXqhm8-3nazLgpT_KZUJE7CXsF7IBrEu7bCVTP4A49IDUWsnVViXp5JEoGTDvUYeRsPavOU8N3pqr7YnMvAY63FhK5GYy54IJCrH4XEFnFn-hkI1pIc9U49b_EWN_vGVp/s320/alifavicon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
